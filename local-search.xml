@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>Front-end Disabling</title>
+    <link href="/2026/11/09/Front-end%20Disabling/"/>
+    <url>/2026/11/09/Front-end%20Disabling/</url>
+    
+    <content type="html"><![CDATA[<ul><li><h4 id="Background-Front-end-restrictions-are-unreliable"><a href="#Background-Front-end-restrictions-are-unreliable" class="headerlink" title="Background :  Front-end restrictions are unreliable."></a>Background :  Front-end restrictions are unreliable.</h4></li><li><h4 id="When-to-use-When-copy-paste-right-click-F12-or-ctrl-shift-i-are-not-allowed-to-be-used-disable-JavaScript"><a href="#When-to-use-When-copy-paste-right-click-F12-or-ctrl-shift-i-are-not-allowed-to-be-used-disable-JavaScript" class="headerlink" title="When to use :  When copy / paste / right-click / F12 or ctrl +shift +i are not allowed to be used, disable JavaScript."></a>When to use :  When <code>copy / paste / right-click / F12 or ctrl +shift +i</code> are not allowed to be used, disable JavaScript.</h4></li><li><h4 id="Why-would-you-think-of-frount-end-disabling-Because-these-functions-are-all-implemented-by-the-webpage-in-the-front-end-using-JavaScript-code"><a href="#Why-would-you-think-of-frount-end-disabling-Because-these-functions-are-all-implemented-by-the-webpage-in-the-front-end-using-JavaScript-code" class="headerlink" title="Why would you think of frount-end disabling :  Because these functions are all implemented by the webpage in the front end using JavaScript code"></a>Why would you think of frount-end disabling :  Because these functions are all implemented by the webpage in the front end using JavaScript code</h4></li><li><h4 id="How-to-disable-JS"><a href="#How-to-disable-JS" class="headerlink" title="How to disable JS :"></a>How to disable JS :</h4><ul><li><h5 id="For-the-Edge-browser"><a href="#For-the-Edge-browser" class="headerlink" title="For the Edge browser  :"></a>For the Edge browser  :</h5></li></ul><p>you can choose to type  <code>edge://settings/content/javascript</code>  into the address bar . Click  “Add site”,and paste the URL of the webpage where you want to disable the frontend into the adress bar</p><img src="https://s41.ax1x.com/2026/11/09/pn40IyV.png" alt="image-20261109171929943" style="zoom:60%;" align="left"/> <p>Alternatively, click the three dots in the top-right corner of the Edge browser, select Settings, open ‘privacy,search,and services’ in the left menu, then click JavaScript under ‘Content’, you will see the same page.</p><ul><li><h5 id="For-the-google-browser"><a href="#For-the-google-browser" class="headerlink" title="For the google browser:"></a>For the google browser:</h5>click the three dots in the top-right corner of the google browser, select Settings, open ‘Privacy and security’ in the left menu, then click site settings . Click JavaScript under ‘Content’ , choose “Add” to add the url.</li></ul><img src="https://s41.ax1x.com/2026/11/09/pn407eU.png" alt="image-20261109175014135" style="zoom:85%;" align="left"/></li></ul><h3 id="Now-you-know-how-to-do-it-😏🥳"><a href="#Now-you-know-how-to-do-it-😏🥳" class="headerlink" title="Now you know how to do it !😏🥳"></a>Now you know how to do it !😏🥳</h3>]]></content>
+    
+    
+    <categories>
+      
+      <category>CTF</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Front-end</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2026/11/08/hello-world/"/>
     <url>/2026/11/08/hello-world/</url>
